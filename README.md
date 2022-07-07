@@ -1,4 +1,5 @@
-### Hi there 👋
+![Alt text](https://github.com/hnjjjj/github-stats-transparent/blob/output/generated/languages.svg)
+![Alt text](https://github.com/hnjjjj/github-stats-transparent/blob/output/generated/overview.svg)
 
 <!--
 **hnjjjj/hnjjjj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
